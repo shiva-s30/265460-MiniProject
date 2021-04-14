@@ -13,7 +13,7 @@ The project aims to build a multiplayer quiz game with 3 Rounds and 5 Players. T
    - Prelims
    - Advanced
    - Finals
-- Questions Based on Latest Trends in the Tech Ecosystem
+- Questions Based on Latest Trends in the Tech ecosystem
 - Compact User Interface to play
 
 ## High Level Requirements
