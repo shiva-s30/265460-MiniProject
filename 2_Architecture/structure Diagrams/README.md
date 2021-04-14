@@ -1,3 +1,9 @@
+## Component Diagram of the Project
+![Screenshot (93)](https://user-images.githubusercontent.com/65439506/114733669-2d294500-9d61-11eb-8913-a5c5af742b44.png)
 
-![Screenshot (94)](https://user-images.githubusercontent.com/65439506/114733389-e9ced680-9d60-11eb-84e8-8a54e82eeca1.png)
+## Implementation Flow of the Project
+![Screenshot (92)](https://user-images.githubusercontent.com/65439506/114733751-429e6f00-9d61-11eb-95c4-b09b2f5e4d77.png)
+
+
+
 
