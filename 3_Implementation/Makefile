@@ -1,4 +1,4 @@
-PROJ_NAME = Tecquizz
+PROJ_NAME = quiz_game
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 BUILD_DIR = Build
