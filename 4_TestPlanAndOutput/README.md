@@ -16,5 +16,5 @@
 
 |ID|Description|Type of I/P | I/P | O/P | Type of Test |
 |--|--|--|--|--|--|
-| L01  |  Total Score Evaluation  |`int` type | Scores of Round 1, Round 2 and Round 3 | Net Sum of the inputs | Technical |
+| L01  |  Total Score Evaluation  |`int` type | Scores of Round 1, Round 2 and Round 3 | Net Sum of the obtained scores | Technical |
 
