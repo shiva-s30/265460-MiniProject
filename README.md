@@ -1,4 +1,5 @@
 [![C/C++ CI](https://github.com/shiva-s30/265460-MiniProject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/shiva-s30/265460-MiniProject/actions/workflows/c-cpp.yml)
+[![cppcheck-action](https://github.com/shiva-s30/265460-MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shiva-s30/265460-MiniProject/actions/workflows/cppcheck.yml)
 
 ## Tecquizz - A Game of Quiz!!!
 Tecquizz is a fun multiplayer technical quiz game with 3 rounds of Quizzing. 
