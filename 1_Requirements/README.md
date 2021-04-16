@@ -1,14 +1,14 @@
 
 #  Requirements
 
-The project aims to build a multiplayer quiz game with 3 Rounds and 5 Players. The quiz is based on the latest technology trends and questions of MCQ type are asked to each user and based on the answer provided the points are tabulated acccording to the marking scheme and the player with the best score wins the game.
+The project aims to build a technical quiz game with 3 Rounds and 5 Players. The quiz is based on the latest technology trends and questions of MCQ type are asked to each user and based on the answer provided the points are tabulated acccording to the marking scheme and the player with the best score wins the game.
 
 
 ## SWOT Analysis
 ![SWOT for Miniproject](https://user-images.githubusercontent.com/65439506/114442148-dea56a80-9be9-11eb-8f50-07878f49d74c.jpg)
 ## Features
 
- - Multiplayer quiz game 
+ - Technical quiz game 
  - 3 Rounds:
    - Prelims
    - Advanced
