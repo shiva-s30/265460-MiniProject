@@ -59,3 +59,9 @@ The project aims to build a technical quiz game with 3 Rounds and unique marking
 7. Based on the response of the user, the console must display right or wrong answer and compute the score
 8. The Scores are evaulated and displayed in the form of a table.
 
+## Other References
+|Link|Description|
+ |--|--|
+ |https://www.cs.vu.nl/~eliens/sg/local/essay/12/68.pdf|Understood the modelling and requirements of the quiz game |
+ [https://www.youtube.com/watch?v=iL4uwRZpj4k](https://www.youtube.com/watch?v=iL4uwRZpj4k)| From this video I understood the algorithms and design to implement a quiz game|
+
