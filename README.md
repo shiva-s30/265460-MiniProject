@@ -22,14 +22,15 @@ Tecquizz is a fun multiplayer technical quiz game with 3 rounds of Quizzing.
 
 ## Marking scheme
  - Round 1
-   -Positive Score of 10 for right answer
-   -Negative Score of 2 for wrong answer
-  - Round 2
-   -Positive Score of 10 for right answer
-   -Negative Score of 1 for wrong answer
-  - Round 3
-   -Positive Score of 7 for right answer
-   -Negative Score of -7 for wrong answer
+	 - Positive Score of 10 for right answer
+	 - Negative Score of 2 for wrong answer
+ - Round 2
+	 - Positive Score of 10 for right answer
+	 - Negative Score of 1 for wrong answer
+ - Round 3
+	 - Positive Score of 7 for right answer
+	 - Negative Score of -7 for wrong answer
+
    
  ## References 
  |Links|Description|
