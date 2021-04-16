@@ -12,7 +12,15 @@ Tecquizz is a fun multiplayer technical quiz game with 3 rounds of Quizzing.
       **May the best player win!!!**
       
  ## Folder Structure     
-
+ |Folder Structure|Description|
+ |--|--|
+ |1_Requirements |Contains SWOT Analysis, high and low level requirements |
+  2_Architecture | Contains Behavioral and Structural Diagrams|
+  3_Implementaion | Contains all the code required to implement the project|  
+  4_TestPlanandOutput |Contains High and Low level Test Plan |
+  5_Report | Contains the report of the project|
+6_ImagesandVideos | Contains the images and videos of the project|  
+7_Other | Any other miscellaneous files |
  
  ## Features unique to the MiniProject
    - Game composed of 3 rounds each with a different marking scheme for each round
