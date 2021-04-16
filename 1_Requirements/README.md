@@ -1,7 +1,7 @@
 
 #  Requirements
 
-The project aims to build a technical quiz game with 3 Rounds and 5 Players. The quiz is based on the latest technology trends and questions of MCQ type are asked to each user and based on the answer provided the points are tabulated acccording to the marking scheme and the player with the best score wins the game.
+The project aims to build a technical quiz game with 3 Rounds and unique marking scheme for each round. The quiz is based on the latest technology trends and questions of MCQ type are asked to each user and based on the answer provided the points are tabulated acccording to the marking scheme and the player with the best score wins the game.
 
 
 ## SWOT Analysis
