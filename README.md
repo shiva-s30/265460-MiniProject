@@ -42,10 +42,11 @@ Tecquizz is a fun multiplayer technical quiz game with 3 rounds of Quizzing.
 
    
  ## References 
- |Links|Description|
+  |Links|Description|
  |--|--|
  |http://www.codeincodeblock.com/2011/06/mini-project-quiz-in-c.html | From this reference, I understood the rules of a simple quiz and how I can modify to reach my project objectives.|
- https://github.com/Deepak06/Quiz-Game-Mini-Project-in-C |I referred this repository to understand the implementation of a single round game of quiz. No part of the code from this repository is used in this MiniProject. There's only a similarity of switch-case implementation.|   
+ https://github.com/Deepak06/Quiz-Game-Mini-Project-in-C |I referred this repository to understand the implementation of a single round game of quiz. No part of the code from this repository is used in this MiniProject. There's only a similarity of switch-case implementation.| 
+ 
   
 
  
