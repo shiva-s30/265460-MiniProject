@@ -1,4 +1,4 @@
-PROJ_NAME = quiz_game
+PROJ_NAME = quiz
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 BUILD_DIR = Build
