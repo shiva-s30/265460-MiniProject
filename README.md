@@ -1,5 +1,6 @@
 |Build|cppcheck|Git Inspector|
 |:--:|:--:|:--:|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/36fab384318549e0a66ef7bdafa702c3)](https://app.codacy.com/gh/shiva-s30/265460-MiniProject?utm_source=github.com&utm_medium=referral&utm_content=shiva-s30/265460-MiniProject&utm_campaign=Badge_Grade_Settings)
 |[![C/C++ CI](https://github.com/shiva-s30/265460-MiniProject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/shiva-s30/265460-MiniProject/actions/workflows/c-cpp.yml)|[![cppcheck-action](https://github.com/shiva-s30/265460-MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shiva-s30/265460-MiniProject/actions/workflows/cppcheck.yml)|[![Contribution Check - Git Inspector](https://github.com/shiva-s30/265460-MiniProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/shiva-s30/265460-MiniProject/actions/workflows/gitinspector.yml)|
 
 # Tecquizz - A Game of Quiz!!!
