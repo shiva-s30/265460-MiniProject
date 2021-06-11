@@ -8,7 +8,7 @@
 
 ## Steps for running the C file
 
-- Download the .c file
-- If you're using Visual Studio, build the .c file on the terminal or using the shortcut `Ctrl+Shift+B`
-- After build, run the .exe file to execute the program.
+-  Download the .c file
+-  If you're using Visual Studio, build the .c file on the terminal or using the shortcut `Ctrl+Shift+B`
+-  After build, run the .exe file to execute the program.
 
